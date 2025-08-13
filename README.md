@@ -34,8 +34,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anujgoenka9/
-   cd 
+   git clone https://github.com/anujgoenka9/delta-lens
+   cd delta-lens
    ```
 
 2. **Install dependencies**
